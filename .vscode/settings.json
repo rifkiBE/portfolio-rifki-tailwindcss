@@ -1,0 +1,8 @@
+{
+    "editor.tabSize": 4,
+    "workbench.editor.pinnedTabSizing": "normal",
+    "workbench.editor.tabSizing": "fit",
+    "livePreview.debugOnExternalPreview": false,
+    "livePreview.notifyOnOpenLooseFile": false,
+    "livePreview.defaultPreviewPath": "/index.html"
+}
